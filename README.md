@@ -14,6 +14,13 @@
 提取码：6666
 > 下载后解压，直接运行exe即可体验游戏
 
+## ✨ 项目运行截图
+<div align="center">
+<img width="430" src="https://github.com/user-attachments/assets/e00cd474-29a5-4475-a037-4cda59b4dfd5" />
+<img width="430" src="https://github.com/user-attachments/assets/87e2da23-c2c2-41f1-92b3-8828820c5480" />
+</div>
+ 
+
 ## 📂 源码说明
 核心C#脚本存放于 Assets/Scripts 目录。
 已通过.gitignore自动忽略Unity缓存文件Library、Temp。
